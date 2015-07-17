@@ -18,6 +18,7 @@ mizzao:animated-each@0.1.0
 
 d3js:d3@3.4.13
 twbs:bootstrap@3.3.1
+mizzao:build-fetcher@0.2.0
 mizzao:jquery-ui@1.11.0
 natestrauser:x-editable-bootstrap@1.5.1
 
