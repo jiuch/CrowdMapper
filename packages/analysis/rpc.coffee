@@ -1,3 +1,6 @@
+# Hack to avoid RPC errors on demo
+return if Meteor.settings.demo
+
 zerorpc = Npm.require("zerorpc")
 
 client = new zerorpc.Client()
