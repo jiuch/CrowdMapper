@@ -3,6 +3,8 @@ CrowdMapper
 
 Real-time collaborative application for tagging streams of geospatial data, built on top of the Meteor Javascript platform. Built with the humanitarian goal of crisis mapping in mind.
 
+[![CrowdMapper Replay](http://share.gifyoutube.com/mLnMWR.gif)](https://www.youtube.com/watch?v=xJYq_kh6NlI)
+
 This project uses [TurkServer](https://github.com/HarvardEconCS/turkserver-meteor) to study how people can organize to do crisis mapping.
 
 ## Dependencies
