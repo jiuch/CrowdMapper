@@ -5,7 +5,7 @@ accounts-ui-unstyled@1.1.7
 aldeed:template-extension@3.4.3
 analysis@0.0.0
 anti:i18n@0.4.3
-aslagle:reactive-table@0.8.11
+aslagle:reactive-table@0.8.12
 autoupdate@1.2.1
 base64@1.0.3
 binary-heap@1.0.3
@@ -25,7 +25,7 @@ email@1.0.6
 facts@1.0.4
 fastclick@1.0.3
 geojson-utils@1.0.3
-grigio:babel@0.1.6
+grigio:babel@0.1.7
 handlebars@1.0.3
 html-tools@1.0.4
 htmljs@1.0.4
@@ -46,7 +46,7 @@ less@1.0.14
 livedata@1.0.13
 localstorage@1.0.3
 logging@1.0.7
-matb33:collection-hooks@0.7.13
+matb33:collection-hooks@0.7.14
 meteor@1.1.6
 meteor-platform@1.2.2
 minifiers@1.1.5
@@ -57,7 +57,7 @@ mizzao:bootboxjs@4.4.0
 mizzao:build-fetcher@0.2.0
 mizzao:jquery-ui@1.11.4
 mizzao:openlayers@2.13.1_1
-mizzao:partitioner@0.5.6
+mizzao:partitioner@0.5.7
 mizzao:sharejs@0.7.4
 mizzao:sharejs-ace@1.1.8_1
 mizzao:timesync@0.3.3
